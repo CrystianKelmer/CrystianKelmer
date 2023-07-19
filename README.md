@@ -22,7 +22,11 @@ Here are some ideas to get you started:
   
 </div>
 
-##
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/CrystianKelmer/CrystianKelmer/blob/output/dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/CrystianKelmer/CrystianKelmer/blob/output/light.svg">
+  <img alt="Mostra uma cobra comendo commits" src="https://github.com/CrystianKelmer/CrystianKelmer/blob/output/dark.svg">
+</picture>
 
 <div> 
  

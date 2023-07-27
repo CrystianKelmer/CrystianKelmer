@@ -28,12 +28,6 @@ Here are some ideas to get you started:
   <img alt="Mostra uma cobra comendo commits" src="https://github.com/CrystianKelmer/CrystianKelmer/blob/output/dark.svg">
 </picture>
 
-<div> 
- 
 
-  <a href = "crystiankelmer@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/crystian-kelmer-12991717b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
-</div>
 
 
